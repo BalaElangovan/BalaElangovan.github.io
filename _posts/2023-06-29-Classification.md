@@ -26,7 +26,7 @@ The multi-class classification has at least two mutually exclusive class labels 
 
 3. **Multi-Label Classification**
 
-In multi-label classification, there is no mutual exclusion as the datasets can have more than one label for the input example. We can use binary classification or multi-class classification algorithms to perform multi-label classification. However, multi-label classification has their specialized algorithms like **Multi-label Decision Trees, Multi-label Gradient Boosting, Multi-label Random Forest** etc.
+In multi-label classification, there is no mutual exclusion as the datasets can have more than one label for the input example. We can use binary classification or multi-class classification algorithms to perform multi-label classification. However, multi-label classification has specialized algorithms like **Multi-label Decision Trees, Multi-label Gradient Boosting, Multi-label Random Forest** etc.
 
 > Example - Categorising our shopping into categories. The different categories are Shopping, Groceries, Transport, Eating out, Subscriptions, Rent etc.
 
@@ -38,7 +38,7 @@ the most commonly used approaches are Sampling techniques and Cost-sensitive tec
 
 > Example - Consider the training data with 80% carrots, 15% potatoes and 5% tomatoes. The conventional models might be biased towards carrots.
 
-## Some Popular Classification Algorithms in Machine Learning (Explained in-brief in another blog)
+## Some Popular Classification Algorithms in Machine Learning (Explained in brief in another blog)
 
 1. Logistic Regression
 
