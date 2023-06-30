@@ -1,14 +1,18 @@
 ---
-title: About Hagura
+title: About Me
 layout: post
 permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+## Hello Readers! 
+# I'm Bala. 
 
-Does the theme deserve a star?
+I'm a post-graduate student studying Data Science and Analytics. My main areas of focus in this blog will be machine learning, exploratory analysis, various algorithms, and any other topics that catch my interest. I write as a pastime, and my articles often draw inspiration from numerous blogs, YouTube videos, and books(coz I'm still learning :D). I will cite them all at the end of each article. 
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sharu725/hagura" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+I guarantee that all of my blogs will be succinct and to the point. Cheers!
+
+Github: [@BalaElangovan](https://github.com/BalaElangovan)
+Twitter: [@balaelangovan03](https://twitter.com/balaelangovan03)
+Linkedin: [@Balakrishnan Elangovan](https://www.linkedin.com/in/balakrishnan-elangovan-893556251/)
+
