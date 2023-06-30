@@ -12,6 +12,8 @@ I'm a post-graduate student studying Data Science and Analytics. My main areas o
 I guarantee that all of my blogs will be succinct and to the point. Cheers!
 
 Github: [@BalaElangovan](https://github.com/BalaElangovan)
+
 Twitter: [@balaelangovan03](https://twitter.com/balaelangovan03)
+
 Linkedin: [@Balakrishnan Elangovan](https://www.linkedin.com/in/balakrishnan-elangovan-893556251/)
 
