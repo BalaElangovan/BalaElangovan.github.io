@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Logistic Regression Explained"
-date:   2023-06-29 23:34:56 +0530
+date:   2023-07-05 23:34:56 +0530
 categories: Algorithms
 ---
 Logistic regression is a classification algorithm. The idea of logistic regression is to find the relationship between features and the probability of a particular outcome.  
