@@ -50,7 +50,7 @@ the most commonly used approaches are Sampling techniques and Cost-sensitive tec
 
 5. Support Vector Machines
 
-## Refernces
+## References
 
 * https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501
 * https://monkeylearn.com/blog/classification-algorithms/
